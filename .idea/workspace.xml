@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e0a870a-edf3-4204-8f3f-5ab2fbb45b72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ed3FKHMm3VuOQPFsBSLikP1XiT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/kafka-maven-tuto" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e0a870a-edf3-4204-8f3f-5ab2fbb45b72" name="Default Changelist" comment="" />
+      <created>1594637537483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594637537483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1480" y="8" key="#Project_Structure" timestamp="1594637903689">
+      <screen x="-1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="8" key="#Project_Structure/0.0.1366.728/-1920.-86.1920.1040@-1920.-86.1920.1040" timestamp="1594637903689" />
+    <state x="-1180" y="189" key="FileChooserDialogImpl" timestamp="1594638767438">
+      <screen x="-1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="189" key="FileChooserDialogImpl/0.0.1366.728/-1920.-86.1920.1040@-1920.-86.1920.1040" timestamp="1594638767438" />
+    <state x="-1578" y="95" key="new project wizard" timestamp="1594640466110">
+      <screen x="-1920" y="-86" width="1920" height="1040" />
+    </state>
+    <state x="-1578" y="95" key="new project wizard/0.0.1366.728/-1920.-86.1920.1040@-1920.-86.1920.1040" timestamp="1594640466110" />
+  </component>
+</project>
